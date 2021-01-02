@@ -1,4 +1,3 @@
-PatientID,TestName,TestResult,LabDelta,ALSFRS-R,Onset: Bulbar,Onset: Limb,Onset: Limb and Bulbar,Onset: Spine,Onset: Other
 348,Absolute Segmented Neutrophil Count,5.22,0,39,0,0,0,0,1
 348,Absolute Segmented Neutrophil Count,5.11,61,38,0,0,0,0,1
 348,Absolute Segmented Neutrophil Count,4.23,120,40,0,0,0,0,1
